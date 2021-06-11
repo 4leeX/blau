@@ -15,5 +15,9 @@ export default () => {
     loadAll();
   }, []);
 
-  return <div className="page"></div>;
+  return (
+    <div className="page">
+      <h1>aaaaaaa</h1>
+    </div>
+  );
 };
